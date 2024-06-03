@@ -64,4 +64,4 @@ The RESTful API developed for WeatherWatch enables the management of weather sen
 
 ## Video Demonstration
 
-Video demonstration of the API in action can be found [here](https://drive.google.com/file/d/1Ze1z44D0LrWBjlgAJyzs-LKkbwVURyJJ/view?usp=sharing)
+Video demonstration of the API in action can be found [here](https://drive.google.com/file/d/1wKXRS2I0TMCrZx_p_s5lq2wh6SPY-iZV/view?usp=sharing)
